@@ -1,1 +1,1 @@
-## Typescript contents
+typescript
